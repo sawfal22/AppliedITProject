@@ -6,7 +6,7 @@
 
 | Role | Name |
 |---|---|
-| Product Owner | |
+| Product Owner |Safal |
 | Scrum Master | |
 | Developer | |
 | Developer | |
