@@ -7,7 +7,7 @@
 | Role | Name |
 |---|---|
 | Product Owner |Safal |
-| Scrum Master | |
+| Scrum Master | Sameen Shrestha |
 | Developer | |
 | Developer | |
 | Developer | |
