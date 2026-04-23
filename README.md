@@ -8,7 +8,7 @@
 |---|---|
 | Product Owner |Safal |
 | Scrum Master | Sameen Shrestha |
-| Developer | |
+| Developer | Jagadish |
 | Developer | Saksham |
 | Developer | |
 
