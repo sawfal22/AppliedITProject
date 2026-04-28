@@ -10,7 +10,7 @@
 | Scrum Master | Sameen Shrestha |
 | Developer | Jagadish |
 | Developer | Saksham |
-| Developer | |
+| Developer | Shahid |
 
 ## Project Overview
 
